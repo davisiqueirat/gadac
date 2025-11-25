@@ -6,13 +6,13 @@
 }
 
 :root {
-    --primary: #2d5a3d;
-    --primary-light: #4a8c5f;
-    --secondary: #f4a261;
-    --accent: #e76f51;
+    --primary: #070bd8;
+    --primary-light: #1f428f;
+    --secondary: #f12e2e;
+    --accent: #e7d851;
     --background: #fefefe;
     --surface: #f8f9fa;
-    --text: #2c3e50;
+    --text: #2c1272;
     --text-light: #6c757d;
     --border: #e9ecef;
     --shadow: rgba(0, 0, 0, 0.1);
@@ -397,7 +397,7 @@ section,
     display: grid;
     grid-template-columns: 1.5fr 1fr;
     gap: 4rem;
-    margin-top: 3rem;
+    margin-top: rem;
 }
 
 .doar-options {
@@ -522,7 +522,7 @@ section,
 
 /* FOOTER */
 .footer {
-    background: rgba(45, 90, 61, 0.95);
+    background: rgba(45, 50, 90, 0.95);
     color: white;
     padding: 4rem 2rem 2rem;
     border-radius: 0;
